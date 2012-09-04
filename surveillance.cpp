@@ -3,7 +3,7 @@
 //
 // https://github.com/LucaMeschiari/MotionRecognition
 //
-// Copyright (c) 2012 Luca Meschiari <meschial@tcd.ie>  <http://www.lm-app.com>.
+// Copyright (c) 2012 Luca Meschiari <meschial@tcd.ie>  <http://www.lucameschiari.com>.
 //
 //
 // This program is free software: you can redistribute it and/or modify
